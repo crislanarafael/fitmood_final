@@ -9,5 +9,5 @@ Once you get XAMPP downloaded if you want to preview your website running on the
 What I did so far was to create a dummy mysql database in the phpmyadmin panel <br><br>
 Video Demo: https://youtu.be/b9MEJqRxkTk
 
-# Update: USE fitmoodv2 AS CURRENT REPO FOR FITMOOD PROJECT
+# Update: USE fitmood_final AS CURRENT REPO FOR FITMOOD PROJECT
 I had to make some changes to make the login work / only had the insert data part of the system working but not the login
